@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milen</h1>
 <h3 align="center">A passionate software developer from Sofia</h3>
 
-- 🔭 I’m currently working on [Pathfinding visualization project](https://github.com/1000p/Pathfinding-algorithms---Interactive-representation)
+- 🔭 I’m currently working on [Pathfinding visualization project](https://github.com/1000p/Pathfinding-algorithms-Interactive-representation)
 
 - 🌱 I’m currently learning **Angular, NodeJS, MongoDB, Mongoose ODM.**
 
